@@ -4,8 +4,8 @@
   "description": "Ultraviolet instance",
   "type": "module",
   "engines": {
-    "npm": "10.7.0",
-    "node": "20.12.1"
+    "npm": "7.20.6",
+    "node": "16.14.2"
   },
   "scripts": {
     "start": "node src/index.js"
